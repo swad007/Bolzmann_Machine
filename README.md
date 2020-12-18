@@ -1,2 +1,2 @@
 # Bolzmann_Machine
-Botzmann Machine is an implementation of unsupervised Deep Learning in which we are predicting the ratings of an users for an movie. 
+Botzmann Machine is an implementation of unsupervised Deep Learning in which we are predicting the ratings of an users for an movie with taking arround 10k observation. 
